@@ -8,6 +8,6 @@ run the commands by this order:
 2) yacc project1.y
 3) gcc -o project1 y.tab.c -ll -Ly
 
-* Create a txt file - project1.txt, with the code you want to check (Check language description).
+* Create a txt file - project1.txt, with the code you want to check (check language description).
 
 4) ./project1<project1.t
